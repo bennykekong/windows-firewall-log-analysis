@@ -147,9 +147,25 @@ The investigation demonstrated how timestamps, IP addresses, ports, packet sizes
 
 ---
 
+## 📸 Project Screenshots
+
+### 1. Port Scan Detection
+![Port Scan Detection](screenshots/01-port-scan-detection.png)
+
+### 2. Suspicious Single-Port Connection
+![Single Port Connection Analysis](screenshots/02-single-port-connection-analysis.png)
+
+### 3. Suspicious Outbound Traffic
+![Suspicious Outbound Traffic](screenshots/03-suspicious-outbound-traffic.png)
+
+---
 ## 📄 Project Evidence
 
-The completed Windows Firewall Log Analysis submission will be included in this repository as supporting evidence.
+The completed Windows Firewall Log Analysis submission is included in this repository as supporting evidence.
+
+[📄 View Windows Firewall Log Analysis Submission](Analyzing%20Windows%20Firewall%20Logs%20%20Submission.docx)
+
+The project evidence demonstrates port-scan detection, suspicious repeated connections, and dropped outbound traffic identified through Windows Firewall logs.
 
 ---
 
