@@ -162,6 +162,7 @@ The investigation demonstrated how timestamps, IP addresses, ports, packet sizes
 ![Firewall Assessment Result 15 of 15](screenshots/04-firewall-assessment-result-15-of-15.png)
 
 ---
+
 ## 📄 Project Evidence
 
 The completed Windows Firewall Log Analysis submission is included in this repository as supporting evidence.
@@ -170,10 +171,12 @@ The completed Windows Firewall Log Analysis submission is included in this repos
 
 The project evidence demonstrates port-scan detection, suspicious repeated connections, and dropped outbound traffic identified through Windows Firewall logs.
 
----
 **Assessment result:** 15/15
 
 [🏆 View Assessment Result](screenshots/04-firewall-assessment-result-15-of-15.png)
+
+---
+
 ## 👨‍💻 Author
 
 **Benard Obi Kekong**
